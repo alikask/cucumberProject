@@ -6,7 +6,7 @@ Proje gereksinimleri
 - JDK, -> https://www.oracle.com/java/technologies/downloads/
 - Intellij idea veya Eclipse IDE, -> https://www.jetbrains.com/idea/download/
 - Google Chrome, https://www.google.com/intl/tr_tr/chrome/
-- Tarayıcınıza uygun chrome driver,(ilgili adresten gerekli driver’ı indirip proje içerisindeki driver dizinine eklemeniz yeterlidir.) -> https://chromedriver.chromium.org/downloads
+- Tarayıcınıza ve işletim sisteminize uygun chrome driver,(ilgili adresten gerekli driver’ı indirip proje içerisindeki driver dizinindeki chromedriver ile değiştirmeniz yeterlidir.) -> https://chromedriver.chromium.org/downloads
 - IDE üzerinde "Cucumber for Java" ve "Gherkin" pluginleri indirilmelidir.
 
 Çalıştırma
